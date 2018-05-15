@@ -5,4 +5,4 @@
   remote_user: vagrant
 
   roles:
-    - ichundu.os-bootstrap
+    - ansible-role-os-bootstrap
