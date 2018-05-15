@@ -3,3 +3,4 @@
 - src: https://github.com/ichundu/ansible-role-os-bootstrap.git
   scm: git
   version: master
+  name: os-bootstrap
